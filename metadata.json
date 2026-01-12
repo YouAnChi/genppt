@@ -1,0 +1,5 @@
+{
+  "name": "GenSpark Presentation Agent",
+  "description": "An AI-powered presentation generator that researches topics, plans outlines, and designs slides with custom images using Gemini 3 models.",
+  "requestFramePermissions": []
+}
